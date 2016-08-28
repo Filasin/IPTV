@@ -73,6 +73,8 @@ http://10.124.20.2:1935/live/kitchen24_tv_247.stream/playlist.m3u8
 http://10.124.20.2:1935/live/discovery_tv_61.stream/playlist.m3u8
 #EXTINF:0,TLC                            
 http://10.124.20.2:1935/live/tlc_tv_61.stream/playlist.m3u8
+#EXTINF:0,Viasat Nature
+http://10.124.20.2:1935/live/viasatnature_tv_61.stream/playlist.m3u8
 #EXTINF:0,Fox
 http://10.124.20.2:1935/live/fox_tv_61.stream/playlist.m3u8   
 #EXTINF:0,Fox Life
