@@ -1,105 +1,636 @@
 #EXTM3U
+
 #EXTINF:0,RTS 1
-http://10.124.20.2:1935/live/rts1_site.stream/playlist.m3u8                          
+http://10.124.20.2:1935/live/rts1_site.stream/playlist.m3u8  
+                        
 #EXTINF:0,RTS 2
 http://10.124.20.2:1935/live/rts2_site.stream/playlist.m3u8
+
 #EXTINF:0,RTS 3                            
 http://10.124.20.2:1935/live/rts3_site.stream/playlist.m3u8
-#EXTINF:0,Prva                               
-http://10.124.20.2:1935/live/prva_site.stream/playlist.m3u8 
-#EXTINF:0,Pink                             
-http://10.124.20.2:1935/live/pink_site.stream/playlist.m3u8  
-#EXTINF:0,Happy                             
+
+#EXTINF:0,PRVA
+http://10.124.20.2:1935/live/prva_site.stream/playlist.m3u8
+
+#EXTINF:0,Pink
+http://10.124.20.2:1935/live/pink_site.stream/playlist.m3u8 
+
+#EXTINF:0,Happy :)
 http://10.124.20.2:1935/live/happy_site.stream/playlist.m3u8
-#EXTINF:0,B92                            
+
+#EXTINF:0,B 92
 http://10.124.20.2:1935/live/b92_site.stream/playlist.m3u8
-#EXTINF:0,Studio b                              
-http://10.124.20.2:1935/live/studiob_site.stream/playlist.m3u8  
+
+#EXTINF:0,Studio B 
+http://10.124.20.2:1935/live/studiob_site.stream/playlist.m3u8
+
 #EXTINF:0,RTV 1                           
-http://10.124.20.2:1935/live/rtv1_site.stream/playlist.m3u8     
+http://10.124.20.2:1935/live/rtv1_site.stream/playlist.m3u8  
+   
 #EXTINF:0,RTV 2                                        
-http://10.124.20.2:1935/live/rtv2_site.stream/playlist.m3u8
+http://10.124.20.2:1935/live/rtv2_site.stream/playlist.m3u8  
+ 
+#EXTINF:0,Moja TV                          
+http://10.124.20.2:1935/live/mojatv_site.stream/playlist.m3u8
+
+#EXTINF:0,TV Rubin                           
+http://10.124.20.2:1935/live/rubin_site.stream/playlist.m3u8
+
 #EXTINF:0,Nova RS                            
 http://10.124.20.2:1935/live/nova_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,Novosadska TV                            
+http://10.124.20.2:1935/live/novosadska_site.stream/playlist.m3u8
+
+#EXTINF:0,Sat TV                            
+http://10.124.20.2:1935/live/sat_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,Mag TV                            
+http://10.124.20.2:1935/live/mag_site.stream/playlist.m3u8
+
+#EXTINF:0,TV KRTL                            
+http://10.124.20.2:1935/live/krtl_site.stream/playlist.m3u8
+
+#EXTINF:0,Gem                            
+http://10.124.20.2:1935/live/gem_site.stream/playlist.m3u8
+
+#EXTINF:0,K9 TV                            
+http://10.124.20.2:1935/live/k9_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,K25 TV                            
+http://10.124.20.2:1935/live/kanal25_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,Delta i Mozaik TV                            
+http://10.124.20.2:1935/live/deltatv_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,Petrovec                            
+http://10.124.20.2:1935/live/petrovec_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,TV VK                            
+http://10.124.20.2:1935/live/tvvk_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,TV Kragujevac                            
+http://10.124.20.2:1935/live/kragujevac_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,TV Jagodina                            
+http://10.124.20.2:1935/live/jagodina_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,TV Jasenica                            
+http://10.124.20.2:1935/live/jasenica_tv_61.stream/playlist.m3u8
+
 #EXTINF:0,TV Sunce                            
 http://10.124.20.2:1935/live/sunce_tv_61.stream/playlist.m3u8
-#EXTINF:0,RTRS                       
-http://10.124.20.2:1935/live/rtrs_tv_119.stream/playlist.m3u8    
-#EXTINF:0,Al Jazeera Balkans                           
-http://10.124.20.2:1935/live/al_jazeera_tv_247.stream/playlist.m3u8 
-#EXTINF:0,OBN                         
-http://10.124.20.2:1935/live/obn_tv_119.stream/playlist.m3u8
-#EXTINF:0,Montenegro Sat                        
+
+#EXTINF:0,RTV Kanal M                            
+http://10.124.20.2:1935/live/kanalm_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,Regionalna TV                            
+http://10.124.20.2:1935/live/regionalna_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,TV Kraljevo                            
+http://10.124.20.2:1935/live/kraljevo_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,TV Telemark                            
+http://10.124.20.2:1935/live/telemark_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,TV Galaksija 32                            
+http://10.124.20.2:1935/live/galaksija32_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,Melos TV                            
+http://10.124.20.2:1935/live/melos_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,TV Pozega                            
+http://10.124.20.2:1935/live/pozega_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,TV Klik                            
+http://10.124.20.2:1935/live/klik_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,TV Forum                            
+http://10.124.20.2:1935/live/forum_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,KA TV                            
+http://10.124.20.2:1935/live/ka_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,TV Priboj                            
+http://10.124.20.2:1935/live/priboj_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,Televizija 5 Plus                            
+http://10.124.20.2:1935/live/5plus_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,TV Enigma                            
+http://10.124.20.2:1935/live/enigma_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,TV Prima                            
+http://10.124.20.2:1935/live/prima_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,ART                        
+http://10.124.20.2:1935/live/art_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,SOS Kanal                                              
+http://10.124.20.2:1935/live/sos_tv_247.stream/playlist.m3u8 
+  
+#EXTINF:0,Palma Plus                                           
+http://10.124.20.2:1935/live/palmaplus_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,Lov i Ribolov
+http://10.124.20.2:1935/live/lovribolov_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,Grand
+http://10.124.20.2:1935/live/grand_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,K::CN 1
+http://10.124.20.2:1935/live/kcn1_tv_119.stream/playlist.m3u8
+
+#EXTINF:0,K::CN 2
+http://10.124.20.2:1935/live/kcn2_tv_119.stream/playlist.m3u8
+
+#EXTINF:0,K::CN 3
+http://10.124.20.2:1935/live/kcn3_tv_119.stream/playlist.m3u8
+
+#EXTINF:0,N1
+http://10.124.20.2:1935/live/n1_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,Mini Ultra
+http://10.124.20.2:1935/live/miniultra_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,Ultra TV
+http://10.124.20.2:1935/live/ultra_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,Nickelodeon
+http://10.124.20.2:1935/live/nickelodeon_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,Tv Most
+http://10.124.20.2:1935/live/tvmost_site.stream/playlist.m3u8
+
+#EXTINF:0,Belle Amie
+http://10.124.20.2:1935/live/belleamie_site.stream/playlist.m3u8
+
+#EXTINF:0,Best
+http://10.124.20.2:1935/live/best_site.stream/playlist.m3u8
+
+#EXTINF:0,TV Pirot
+http://10.124.20.2:1935/live/pirot_site.stream/playlist.m3u8
+
+#EXTINF:0,Sremska                           
+http://10.124.20.2:1935/live/live/sremska_site.stream/playlist.m3u8	
+
+#EXTINF:0,Panonija                           
+http://10.124.20.2:1935/live/live/panonija_site.stream/playlist.m3u8 
+   
+#EXTINF:0,Santos                                     
+http://10.124.20.2:1935/live/live/santos_site.stream/playlist.m3u8
+
+#EXTINF:0,Nasa
+http://10.124.20.2:1935/live/nasa_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,Nasa Party
+http://10.124.20.2:1935/live/nasaparty_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,Nasa Vremeplov
+http://10.124.20.2:1935/live/nasavremeplov_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,RTRS
+http://10.124.20.2:1935/live/rtrs_tv_119.stream/playlist.m3u8
+
+#EXTINF:0,Al Jazeera Balkans 
+http://10.124.20.2:1935/live/al_jazeera_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,Hayat
+http://10.124.20.2:1935/live/hayat_site.stream/playlist.m3u8
+
+#EXTINF:0,Hayat Music
+http://10.124.20.2:1935/live/hayatmusic_tv_119.stream/playlist.m3u8
+
+#EXTINF:0,Hayat Plus
+http://10.124.20.2:1935/live/hayatplus_site.stream/playlist.m3u8
+
+#EXTINF:0,Hayat Folk
+http://10.124.20.2:1935/live/hayatfolk_tv_119.stream/playlist.m3u8
+
+#EXTINF:0,Hayatovci
+http://10.124.20.2:1935/live/hayatovci_tv_119.stream/playlist.m3u8
+
+#EXTINF:0,Atlas
+http://10.124.20.2:1935/live/atlas_tv_119.stream/playlist.m3u8
+
+#EXTINF:0,Montenegro Sat
 http://10.124.20.2:1935/live/montenegro_tv_247.stream/playlist.m3u8
-#EXTINF:0,HRT 1                          
-http://109.206.96.209:80/hrt1_site/index.m3u8
-#EXTINF:0,HRT 2                          
-http://10.124.20.2:1935/live/hrt2_site.stream/playlist.m3u8                            
+
+#EXTINF:0,Jugoton TV
+http://10.124.20.2:1935/live/jugoton_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,Mini TV
+http://10.124.20.2:1935/live/mini_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,HRT 1
+http://10.124.20.2:1935/live/hrt1_site.stream/playlist.m3u8
+
+#EXTINF:0,HRT 2
+http://10.124.20.2:1935/live/hrt2_site.stream/playlist.m3u8
+
+#EXTINF:0,HRT 3
+http://10.124.20.2:1935/live/hrt3_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,HRT 4
+http://10.124.20.2:1935/live/hrt4_tv_38.stream/playlist.m3u8
+
+#EXTINF:0,Pink BH
+http://10.124.20.2:1935/live/pinkbih.stream/playlist.m3u8
+
+#EXTINF:0,Pink 2
+http://10.124.20.2:1935/live/pink2.stream/playlist.m3u8
+
+#EXTINF:0,Pink 3 Info
+http://10.124.20.2:1935/live/pink3info.stream/playlist.m3u8
+
+#EXTINF:0,Pink Action
+http://10.124.20.2:1935/live/pinkaction.stream/playlist.m3u8
+
+#EXTINF:0,Pink Thriller
+http://10.124.20.2:1935/live/pinkthriller.stream/playlist.m3u8
+
+#EXTINF:0,Pink Crime & Mystery
+http://10.124.20.2:1935/live/pinkcrimemistery.stream/playlist.m3u8
+
+#EXTINF:0,Pink Movies 
+http://10.124.20.2:1935/live/pinkmovies.stream/playlist.m3u8
+
+#EXTINF:0,Pink Romance
+http://10.124.20.2:1935/live/pinkromance.stream/playlist.m3u8
+
+#EXTINF:0,Pink Sci Fi & Fantasy
+http://10.124.20.2:1935/live/pinkscifi&fantasy.stream/playlist.m3u8
+
+#EXTINF:0,Pink Western
+http://10.124.20.2:1935/live/pinkwestern.stream/playlist.m3u8
+
+#EXTINF:0,Pink Comedy
+http://10.124.20.2:1935/live/pinkcomedy.stream/playlist.m3u8
+
+#EXTINF:0,Pink Horror
+http://10.124.20.2:1935/live/pinkhorror.stream/playlist.m3u8
+
+#EXTINF:0,Pink Family
+http://10.124.20.2:1935/live/pinkfamily.stream/playlist.m3u8
+
+#EXTINF:0,Pink Classic
+http://10.124.20.2:1935/live/pinkclassic.stream/playlist.m3u8
+
+#EXTINF:0,Pink Premium
+http://10.124.20.2:1935/live/pinkpremium.stream/playlist.m3u8
+
+#EXTINF:0,Pink Film
+http://10.124.20.2:1935/live/pinkfilm.stream/playlist.m3u8
+
+#EXTINF:0,Pink World Cinema
+http://10.124.20.2:1935/live/pinkworldcinema.stream/playlist.m3u8
+
+#EXTINF:0,Pink Pedia
+http://10.124.20.2:1935/live/pinkpedia.stream/playlist.m3u8
+
+#EXTINF:0,Pink Soap
+http://10.124.20.2:1935/live/pinksoap.stream/playlist.m3u8
+
+#EXTINF:0,Pink Serije
+http://10.124.20.2:1935/live/pinkserije.stream/playlist.m3u8
+
+#EXTINF:0,Pink Kids
+http://10.124.20.2:1935/live/pinkkids.stream/playlist.m3u8
+
+#EXTINF:0,Pink Super Kids
+http://10.124.20.2:1935/live/pinksuperkids.stream/playlist.m3u8
+
+#EXTINF:0,Pink Extra
+http://10.124.20.2:1935/live/pinkextra.stream/playlist.m3u8
+
+#EXTINF:0,Pink Zabava
+http://10.124.20.2:1935/live/pinkzabava.stream/playlist.m3u8
+
+#EXTINF:0,Pink Reality
+http://10.124.20.2:1935/live/pinkreality.stream/playlist.m3u8
+
+#EXTINF:0,Pink Folk 1
+http://10.124.20.2:1935/live/pinkfolk.stream/playlist.m3u8
+
+#EXTINF:0,Pink Folk 2
+http://10.124.20.2:1935/live/pinkfolk2.stream/playlist.m3u8
+
+#EXTINF:0,Pink Music 1
+http://10.124.20.2:1935/live/pinkmusic.stream/playlist.m3u8
+
+#EXTINF:0,Pink Music 2
+http://10.124.20.2:1935/live/pinkmusic2.stream/playlist.m3u8
+
+#EXTINF:0,Pink Hits 1
+http://10.124.20.2:1935/live/pinkhits1.stream/playlist.m3u8
+
+#EXTINF:0,Pink Hits 2
+http://10.124.20.2:1935/live/pinkhits2.stream/playlist.m3u8
+
+#EXTINF:0,Pink Parada
+http://10.124.20.2:1935/live/pinkparada.stream/playlist.m3u8
+
+#EXTINF:0,Bravo Music
+http://10.124.20.2:1935/live/bravomusic.stream/playlist.m3u8
+
+#EXTINF:0,Pink Koncert
+http://10.124.20.2:1935/live/pinkkoncert.stream/playlist.m3u8
+
+#EXTINF:0,Pink 'n' Roll
+http://10.124.20.2:1935/live/pinkroll.stream/playlist.m3u8
+
+#EXTINF:0,Pink Fight
+http://10.124.20.2:1935/live/pinkfight.stream/playlist.m3u8
+
+#EXTINF:0,Pink Style
+http://10.124.20.2:1935/live/pinkstyle.stream/playlist.m3u8
+
+#EXTINF:0,Pink Fashion
+http://10.124.20.2:1935/live/pinkfashion.stream/playlist.m3u8
+
+#EXTINF:0,Pink World
+http://10.124.20.2:1935/live/pinkworld.stream/playlist.m3u8
+
+#EXTINF:0,Pink Show
+http://10.124.20.2:1935/live/pinkshow.stream/playlist.m3u8
+
+#EXTINF:0,Pink Kuvar
+http://10.124.20.2:1935/live/pinkkuvar.stream/playlist.m3u8
+
+#EXTINF:0,Pink M
+http://10.124.20.2:1935/live/pinkm.stream/playlist.m3u8
+
+#EXTINF:0,Pink Plus
+http://10.124.20.2:1935/live/pinkplus.stream/playlist.m3u8
+
+#EXTINF:0,Erotic 1
+http://10.124.20.2:1935/live/erotic1_1m.stream/playlist.m3u8
+
+#EXTINF:0,Erotic 2
+http://10.124.20.2:1935/live/erotic2_1m.stream/playlist.m3u8
+
+#EXTINF:0,Erotic 3
+http://10.124.20.2:1935/live/erotic3_1m.stream/playlist.m3u8
+
+#EXTINF:0,Erotic 4
+http://10.124.20.2:1935/live/erotic4_1m.stream/playlist.m3u8
+
+#EXTINF:0,Erotic 5
+http://10.124.20.2:1935/live/erotic5.stream/playlist.m3u8
+
+#EXTINF:0,Erotic 6
+http://10.124.20.2:1935/live/erotic6.stream/playlist.m3u8
+
+#EXTINF:0,Erotic 7
+http://10.124.20.2:1935/live/erotic7.stream/playlist.m3u8
+
+#EXTINF:0,Erotic 8
+http://10.124.20.2:1935/live/erotic8.stream/playlist.m3u8
+
+#EXTINF:0,BrazzersTV
+http://10.124.20.2:1935/live/brazzerstv_tv_119.stream/playlist.m3u8
+
+#EXTINF:0,Dorcel
+http://10.124.20.2:1935/live/dorcel_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,Dusk
+http://10.124.20.2:1935/live/dusk_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,Frenchlover
+http://10.124.20.2:1935/live/live/frenchlover_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,Hustler
+http://10.124.20.2:1935/live/hustler_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,Erox HD
+http://10.124.20.2:1935/live/live/eroxhd.stream/playlist.m3u8
+
+#EXTINF:0,Eroxxx HD
+http://10.124.20.2:1935/live/live/eroxxxhd.stream/playlist.m3u8
+
+#EXTINF:0,Info Kanal KBCnet
+http://10.124.20.2:1935/live/infokanalkbcnet.stream/playlist.m3u8
+
 #EXTINF:0,Arena Sport 1
 http://10.124.20.2:1935/live/arena1_tv_247.stream/playlist.m3u8
+
 #EXTINF:0,Arena Sport 2
-http://10.124.20.2:1935/live/arena2_tv_247.stream/playlist.m3u8   
+http://10.124.20.2:1935/live/arena2_tv_247.stream/playlist.m3u8
+
 #EXTINF:0,Arena Sport 3
-http://10.124.20.2:1935/live/arena3_tv_247.stream/playlist.m3u8   
+http://10.124.20.2:1935/live/arena3_tv_247.stream/playlist.m3u8
+
 #EXTINF:0,Arena Sport 4
-http://10.124.20.2:1935/live/arena4_tv_247.stream/playlist.m3u8                              
+http://10.124.20.2:1935/live/arena4_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,Arena Sport 5
+http://10.124.20.2:1935/live/arena5_tv_247.stream/playlist.m3u8
+
 #EXTINF:0,TV Slovenija 1
-http://10.124.20.2:1935/live/tvslovenija1_tv_38.stream/playlist.m3u8   
-#EXTINF:0,TV Slovenija 3                          
+http://10.124.20.2:1935/live/tvslovenija1_tv_38.stream/playlist.m3u8
+
+#EXTINF:0,TV Slovenija 2
+http://10.124.20.2:1935/live/live/tvslovenija2_tv_38.stream/playlist.m3u8
+
+#EXTINF:0,TV Slovenija 3
 http://10.124.20.2:1935/live/tvslovenija3_tv_38.stream/playlist.m3u8
-#EXTINF:0,Rai 1                        
-http://10.124.20.2:1935/live/rai_tv_247.stream/playlist.m3u8  
-#EXTINF:0,Rai 2                                  
+
+#EXTINF:0,Rai 1
+http://10.124.20.2:1935/live/rai_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,Rai 2
 http://10.124.20.2:1935/live/rai2_tv_247.stream/playlist.m3u8
-#EXTINF:0,Fashion TV                         
-http://10.124.20.2:1935/live/fashiontv_tv_247.stream/playlist.m3u8 
-#EXTINF:0,Baby TV 
-http://10.124.20.2:1935/live/baby_tv_61.stream/playlist.m3u8
-#EXTINF:0,Minimax i Duck                           
-http://10.124.20.2:1935/live/minimax_tv_247.stream/playlist.m3u8
-#EXTINF:0,AMC                          
-http://10.124.20.2:1935/live/amc_tv.stream/playlist.m3u8
-#EXTINF:0,Animal Planet                            
-http://10.124.20.2:1935/live/animalplanet_tv_61.stream/playlist.m3u8    
-#EXTINF:0,History Channel
-http://10.124.20.2:1935/live/historychannel_tv_61.stream/playlist.m3u8 
-#EXTINF:0,National Geographic                            
-http://10.124.20.2:1935/live/national_geo_tv_61.stream/playlist.m3u8
-#EXTINF:0,Nat Geo Wild                            
-http://10.124.20.2:1935/live/national_geo_wild_tv_61.stream/playlist.m3u8
-#EXTINF:0,Kitchen24
-http://10.124.20.2:1935/live/kitchen24_tv_247.stream/playlist.m3u8
-#EXTINF:0,Discovery                            
-http://10.124.20.2:1935/live/discovery_tv_61.stream/playlist.m3u8
-#EXTINF:0,TLC                            
-http://10.124.20.2:1935/live/tlc_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,Rai 3
+http://10.124.20.2:1935/live/live/rai3_tv_247.stream/playlist.m3u8
+
 #EXTINF:0,Viasat Nature
 http://10.124.20.2:1935/live/viasatnature_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,ZDF
+http://10.124.20.2:1935/live/zdf_tv_110.stream/playlist.m3u8
+
+#EXTINF:0,Euronews
+http://10.124.20.2:1935/live/euronews_tv.stream/playlist.m3u8
+
+#EXTINF:0,Fashion TV
+http://10.124.20.2:1935/live/fashiontv_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,Balkanika
+http://10.124.20.2:1935/live/balkanika_tv_119.stream/playlist.m3u8
+
+#EXTINF:0,Ginx
+http://10.124.20.2:1935/live/ginx_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,Cartoon Network
+http://10.124.20.2:1935/live/cartoon_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,Boomerang
+http://10.124.20.2:1935/live/boomerang_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,Baby TV
+http://10.124.20.2:1935/live/babytv_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,Disney Channel
+http://10.124.20.2:1935/live/disney_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,Disney XD
+http://10.124.20.2:1935/live/live/disneyxd_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,Minimax i Duck
+http://10.124.20.2:1935/live/minimax_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,Da Vinci L
+http://10.124.20.2:1935/live/davincil_tv_247.stream/playlist.m3u8
+
 #EXTINF:0,Fox
-http://10.124.20.2:1935/live/fox_tv_61.stream/playlist.m3u8   
+http://10.124.20.2:1935/live/fox_tv_61.stream/playlist.m3u8
+
 #EXTINF:0,Fox Life
 http://10.124.20.2:1935/live/foxlife_tv_247.stream/playlist.m3u8
-#EXTINF:0,Nickelodeon
-http://10.124.20.2:1935/live/nickelodeon_tv_61.stream/playlist.m3u8   
-#EXTINF:0,Comedy Central Extra
-http://10.124.20.2:1935/live/comedycentralextra_tv_61.stream/playlist.m3u8   
+
+#EXTINF:0,Fox Movies
+http://10.124.20.2:1935/live/foxmovies.stream/playlist.m3u8
+
+#EXTINF:0,AMC
+http://10.124.20.2:1935/live/amc_tv.stream/playlist.m3u8
+
+#EXTINF:0,Eurosport 1
+http://10.124.20.2:1935/live/eurosport1_tv.stream/playlist.m3u8
+
+#EXTINF:0,Eurosport 2
+http://10.124.20.2:1935/live/eurosport2_tv.stream/playlist.m3u8
+
+#EXTINF:0,Animal Planet 
+http://10.124.20.2:1935/live/animalplanet_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,National Geographic
+http://10.124.20.2:1935/live/national_geo_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,Nat Geo Wild
+http://10.124.20.2:1935/live/national_geo_wild_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,Discovery World
+http://10.124.20.2:1935/live/discovery_world_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,Discovery
+http://10.124.20.2:1935/live/discovery_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,Discovery ID
+http://10.124.20.2:1935/live/discid_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,Discovery SCI
+http://10.124.20.2:1935/live/discoverysci_tv_247.stream/playlist.m3u8
+
 #EXTINF:0,Crime & Investigation
-http://10.124.20.2:1935/live/crimeinvestigation_tv_61.stream/playlist.m3u8   
-#EXTINF:0,CNN
-http://10.124.20.2:1935/live/cnn_tv_61.stream/playlist.m3u8 
-#EXTINF:0,MTV                            
+http://10.124.20.2:1935/live/crimeinvestigation_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,History Channel
+http://10.124.20.2:1935/live/historychannel_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,TLC
+http://10.124.20.2:1935/live/tlc_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,VH1
+http://10.124.20.2:1935/live/vh1_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,MTV
 http://10.124.20.2:1935/live/mtv_tv_247.stream/playlist.m3u8
-#EXTINF:0,Sky News                            
+
+#EXTINF:0,Comedy Central Extra
+http://10.124.20.2:1935/live/comedycentralextra_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,BBC World News
+http://10.124.20.2:1935/live/bbcworldnews_tv.stream/playlist.m3u8
+
+#EXTINF:0,CNN
+http://10.124.20.2:1935/live/cnn_tv_61.stream/playlist.m3u8
+
+#EXTINF:0,Sky News
 http://10.124.20.2:1935/live/skynews_tv.stream/playlist.m3u8
-#EXTINF:0,World Fashion                            
+
+#EXTINF:0,World Fashion
 http://10.124.20.2:1935/live/worldfashion_tv_38.stream/playlist.m3u8
-#EXTINF:0,Russia 24                            
+
+#EXTINF:0,Russia 24
 http://10.124.20.2:1935/live/russia24_tv_38.stream/playlist.m3u8
-#EXTINF:0,Russia Today                            
+
+#EXTINF:0,Russia Today
 http://10.124.20.2:1935/live/russiatoday_tv_247.stream/playlist.m3u8
-#EXTINF:0,RTR Planeta                            
+
+#EXTINF:0,RTR Planeta
 http://10.124.20.2:1935/live/rtrplaneta_tv_38.stream/playlist.m3u8
-#EXTINF:0,CCTV News                            
+
+#EXTINF:0,Kitchen24
+http://10.124.20.2:1935/live/kitchen24_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,CCTV News
 http://10.124.20.2:1935/live/cctvnews_tv_38.stream/playlist.m3u8
-#EXTINF:0,CCTV 4 
-http://10.124.20.2:1935/live/cctv4_tv_110.stream/playlist.m3u8   
+
+#EXTINF:0,CCTV 4
+http://10.124.20.2:1935/live/cctv4_tv_110.stream/playlist.m3u8
+
+#EXTINF:0,SK1
+http://10.124.20.2:1935/live/sk1_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,SK2
+http://10.124.20.2:1935/live/sk2_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,SK3
+http://10.124.20.2:1935/live/sk3_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,Cinemax
+http://10.124.20.2:1935/live/cinemax_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,Cinemax 2
+http://10.124.20.2:1935/live/cinemax2_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,HBO
+http://10.124.20.2:1935/live/hbo_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,HBO 2
+http://10.124.20.2:1935/live/hbocomedy_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,HBO 3
+http://10.124.20.2:1935/live/hbo3_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,AXN
+http://10.124.20.2:1935/live/axn_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,AXN Spin
+http://10.124.20.2:1935/live/axnspin_tv_247.stream/playlist.m3u8
+
+#EXTINF:0,NTV
+http://10.124.20.2:1935/live/ntv_site.stream/playlist.m3u8
+
+#EXTINF:0,TV Krusevac
+http://10.124.20.2:1935/live/krusevac_site.stream/playlist.m3u8
+
+#EXTINF:0,TV Vranje
+http://10.124.20.2:1935/live/vranje_site.stream/playlist.m3u8
+
+#EXTINF:0,TV Bor
+http://10.124.20.2:1935/live/bor_site.stream/playlist.m3u8
+
+#EXTINF:0,TV Novi Pazar
+http://10.124.20.2:1935/live/tv_novi_pazar.stream/playlist.m3u8
+
+#EXTINF:0,TV Plus
+http://10.124.20.2:1935/live/plus_site.stream/playlist.m3u8
+
+#EXTINF:0,TV Jefimija
+http://10.124.20.2:1935/live/jefimija_site.stream/playlist.m3u8
+
+#EXTINF:0,TV 4S
+http://10.124.20.2:1935/live/tv_4s.stream/playlist.m3u8
+
+#EXTINF:0,TV Leskovac
+http://10.124.20.2:1935/live/leskovac_site.stream/playlist.m3u8
+
+#EXTINF:0,TV Trstenik
+http://10.124.20.2:1935/live/trstenik_site.stream/playlist.m3u8
+
+#EXTINF:0,Life & Holiday
+http://10.124.20.2:1935/live/life_and_holiday_tv_119.stream/playlist.m3u8
+
+
